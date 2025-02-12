@@ -1,0 +1,15 @@
+# Made by Terpz710 :p
+
+# Chance (in percentage) for an ore to replace cobblestone
+# 0 is min 100 is max
+ore-spawn-chance: 40
+
+# Probability weights for each ore
+ore-weights:
+  coal: 50
+  iron: 25
+  copper: 20
+  redstone: 15
+  gold: 15
+  diamond: 7
+  emerald: 3
